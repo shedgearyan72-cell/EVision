@@ -10,10 +10,10 @@ Features
 6. Suitable for colleges, malls, offices, and residential parking areas
    
 Hardware Used
-Arduino Uno
-HC-SR04 Ultrasonic Sensors
-Jumper Wires
-USB Cable
+1. Arduino Uno
+2. HC-SR04 Ultrasonic Sensors
+3. Jumper Wires
+4. USB Cable
 
 Applications
 1. Smart Parking Systems
